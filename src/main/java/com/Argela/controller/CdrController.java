@@ -1,6 +1,5 @@
 package com.Argela.controller;
 
-import com.Argela.dataTransferObject.CdrRequest;
 import com.Argela.dataTransferObject.CdrResponse;
 import com.Argela.service.CdrService;
 import lombok.RequiredArgsConstructor;

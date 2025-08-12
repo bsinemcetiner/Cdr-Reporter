@@ -1,6 +1,5 @@
 package com.Argela.service;
 
-import com.Argela.dataTransferObject.CdrRequest;
 import com.Argela.dataTransferObject.CdrResponse;
 
 import java.util.List;
