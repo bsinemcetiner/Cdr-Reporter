@@ -22,8 +22,7 @@ public class CdrMapper {
                 .conversationDuration(entity.getConversationDuration())
                 .direction(entity.getDirection())
                 .result(entity.getResult())
+                .callCost(entity.getCallCost())
                 .build();
     }
-
 }
-

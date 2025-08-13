@@ -51,4 +51,7 @@ public class CdrResponse {
 
     @Schema(description = "Result status of the call", example = "SUCCESS")
     private Result result;
+
+    @Schema(description = "Total cost of the call", example = "15.50")
+    private Double callCost;
 }
